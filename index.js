@@ -22,7 +22,7 @@ mongoose.connect('mongodb+srv://mohammadweex21:yWLnU2es3w4q0gvE@cluster0.7vod0my
 })
 
 app.get("/",function(req,res){
-    res.render(__dirname+"/views/index.ejs")
+    res.render(__dirname+"/views/Registrationform.ejs")
 })
 
 
