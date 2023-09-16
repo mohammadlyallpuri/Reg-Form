@@ -1,0 +1,68 @@
+/* Dark Mode Styles */
+body {
+    background-color: #1a1a1a;
+    color: #ffffff;
+    font-family: 'Kanit', sans-serif;
+}
+
+h2 {
+    text-align: center;
+    border-radius: 20px;
+    width: 15%;
+    margin: 0 auto;
+    background-color: #098274;
+    padding: 10px;
+}
+
+form {
+    border-radius: 20px;
+    width: 43%;
+    margin: 0 auto;
+    border-color: #290912;
+    background-color: #292929;
+    opacity: 0.9;
+    padding: 1vw 0;
+}
+
+table {
+    margin: 0 auto;
+    line-height: 35px;
+    color: #ffffff;
+}
+
+label {
+    color: #ae4c4c;
+    font-weight: 700;
+}
+
+.alignment {
+    height: 25px;
+    width: 300px;
+    border-radius: 5px;
+}
+
+p {
+    text-align: center;
+}
+
+.conditions {
+    display: inline-block;
+}
+
+.buto {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #0e3b87;
+    font-weight: bold;
+    text-decoration: none;
+    color: #ffffff;
+    border-radius: 0px 0px 20px 20px;
+    border: none;
+    width: 100%;
+    cursor: pointer;
+}
+
+.buto:hover {
+    background-color: #0b2637;
+}
